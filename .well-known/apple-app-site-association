@@ -1,10 +1,17 @@
 {
   "applinks": {
-      "apps": [],
-      "details": [
+    "apps": [],
+    "details": [
       {
-        "appID": "S8QB4VV633.com.example.deeplinkCookbook",
-        "paths": ["*"]
+        "appIDs": [
+          "com.testabdallah.deepLinkApp"
+        ],
+        "components": [
+          {
+            "/": "/product/*",
+            "comment": "Matches any URL with a path that starts with /product/."
+          }
+        ]
       }
     ]
   }
