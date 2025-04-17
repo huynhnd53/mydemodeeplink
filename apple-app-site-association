@@ -3,9 +3,14 @@
     "apps": [],
     "details": [
       {
-        "appID": "29N29U7V47.com.mesoft.mewinbooking",
-        "paths": [
-          "/"
+        "appIDs": [
+          "29N29U7V47.com.mesoft.mewinbooking"
+        ],
+        "components": [
+          {
+            "/": "/product/*",
+            "comment": "Matches any URL with a path that starts with /product/."
+          }
         ]
       }
     ]
