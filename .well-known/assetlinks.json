@@ -1,9 +1,9 @@
 [{
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
-      "namespace": "android_app",
-      "package_name": "com.example",
+      "namespace": "com.example.bookingmewin",
+      "package_name": "com.example.bookingmewin",
       "sha256_cert_fingerprints":
-      ["14:6D:E9:83:C5:2F:34:FC:64:16:A0:83:42:E6:1D:BE:A8:8A:04:96:B2:3F:CF:44:E5"]
+      ["50:B0:EF:0F:55:16:35:B2:51:26:1D:81:30:62:8B:CA:B0:89:69:EB:02:FE:BA:50:F7:F3:43:48:E9:2E:E8:9A"]
     }
   }]
